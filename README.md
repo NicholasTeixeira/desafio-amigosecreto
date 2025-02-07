@@ -6,6 +6,13 @@
 O Desafio Amigo Secreto é um projeto divertido e interativo criado para organizar e gerenciar o tradicional jogo de amigo secreto (também conhecido como amigo oculto). Este projeto facilita a criação de grupos, a adição de participantes, o sorteio aleatório de amigos secretos e a visualização dos resultados de maneira simples e intuitiva.
 
 ---
+## Índice
+
+- [Tecnologias usadas](#tecnologias-usadas)
+- [Funcionalidades](#funcionalidades)
+- [Imagens](#imagens)
+- [Clone o repositório](#clone-o-repositório)
+---
 
 ## Tecnologias usadas:
 ### Linguagens e Ferramentas
@@ -41,4 +48,9 @@ Algumas funcionalidade do projeto são:
 ---
 ### Nome Sorteado:
 ![03](https://github.com/user-attachments/assets/611a53e5-d81a-4894-adc8-fccd9ecb0f1e)
+---
+---
+## Clone o repositório
+[git clone ](https://github.com/NicholasTeixeira/desafio-amigosecreto.git)
+
 ---
